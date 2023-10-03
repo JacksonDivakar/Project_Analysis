@@ -1,7 +1,4 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as pt
-import seaborn as sb
+
 import openai
 sc=#place Your Secret Key Here
 openai.api_key=sc
